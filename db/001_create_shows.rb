@@ -6,5 +6,5 @@ create_table :shows |s|
 
 s.string :name 
 s.string :network 
-s.integer :day 
-s
+s.string :day
+s.integer :rating 
